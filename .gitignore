@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/Flask_Blog.iml
+/misc.xml
+/modules.xml
+/inspectionProfiles/profiles_settings.xml
+/inspectionProfiles/Project_Default.xml
+/vcs.xml
